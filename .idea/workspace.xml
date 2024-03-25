@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4ea1da07-ad99-46a7-9104-48420e43efbd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Tecnologias Moveis/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tecnologias Moveis/.idea/2024-1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tecnologias Moveis/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tecnologias Moveis/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tecnologias Moveis/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\leona\OneDrive\Área de Trabalho\2024-1\Tecnologias Moveis\TDE 4" />
+      <recent name="C:\Users\leona\OneDrive\Área de Trabalho\2024-1" />
+      <recent name="C:\Users\leona\OneDrive\Área de Trabalho\2024-1\Tecnologias Moveis" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -53,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711407283410</updated>
-      <workItem from="1711407284287" duration="372000" />
+      <workItem from="1711407284287" duration="782000" />
     </task>
     <servers />
   </component>
